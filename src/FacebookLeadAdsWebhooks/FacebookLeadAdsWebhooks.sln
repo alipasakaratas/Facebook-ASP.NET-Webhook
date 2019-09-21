@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookLeadAdsWebhooks", "FacebookLeadAdsWebhooks\FacebookLeadAdsWebhooks.csproj", "{C55DD821-BFC7-45C8-9F3A-8C7A7437177E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmMedya.LogServis", "CrmMedya.LogServis\CrmMedya.LogServis.csproj", "{F7F385E7-6910-4816-98E9-795F4E7FAF82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{C55DD821-BFC7-45C8-9F3A-8C7A7437177E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C55DD821-BFC7-45C8-9F3A-8C7A7437177E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C55DD821-BFC7-45C8-9F3A-8C7A7437177E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F385E7-6910-4816-98E9-795F4E7FAF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F385E7-6910-4816-98E9-795F4E7FAF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F385E7-6910-4816-98E9-795F4E7FAF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F385E7-6910-4816-98E9-795F4E7FAF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7420E3DB-FAB0-4A94-96BF-3ABF75091FEF}
 	EndGlobalSection
 EndGlobal
